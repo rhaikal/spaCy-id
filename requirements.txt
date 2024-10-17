@@ -1,0 +1,4 @@
+spacy
+spacy-udpipe
+spacy-conll
+spacy-transformers
